@@ -8,8 +8,8 @@ body {
 
 #envelope {
     position: relative;
-    height: 380px;
-    width: 590px;
+    height: 2200px;
+    width: 3400px;
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
     margin-left: auto;
@@ -50,9 +50,9 @@ body {
 .letter {
     position: relative;
     background-color: white;
-    width: 90%;
-    height: 95%;
-    top: 5%;
+    width: 200%;
+    height: 215%;
+    top: 30%;
     border-radius: 10px;
     box-shadow: 0 2px 26px rgba(0, 0, 0, .12);
     margin-left: auto;
