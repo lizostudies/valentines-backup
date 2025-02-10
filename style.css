@@ -3,13 +3,13 @@ body {
 }
 
 .envelope-wrapper {
-    height: 480px;
+    height: 380px;
 }
 
 #envelope {
     position: relative;
-    height: 280px;
-    width: 380px;
+    height: 180px;
+    width: 280px;
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
     margin-left: auto;
