@@ -3,13 +3,13 @@ body {
 }
 
 .envelope-wrapper {
-    height: 880px;
+    height: 480px;
 }
 
 #envelope {
     position: relative;
-    height: 680px;
-    width: 780px;
+    height: 480px;
+    width: 580px;
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
     margin-left: auto;
@@ -83,7 +83,7 @@ body {
 }
 .line2 {
     top: 20%;
-    text-align: center;
+    text-align: justify;
 }
 .line3 {
     top: 40%;
@@ -97,7 +97,7 @@ body {
     top: 60%;
 }
 .line6 {
-    top: 70%;
+    top: 65%;
 }
 
 .open .flap {
