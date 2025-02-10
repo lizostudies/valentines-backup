@@ -50,9 +50,9 @@ body {
 .letter {
     position: relative;
     background-color: white;
-    width: 200%;
-    height: 215%;
-    top: 30%;
+    width: 90%;
+    height: 95%;
+    top: 10%;
     border-radius: 10px;
     box-shadow: 0 2px 26px rgba(0, 0, 0, .12);
     margin-left: auto;
@@ -83,6 +83,7 @@ body {
 }
 .line2 {
     top: 20%;
+     text-align: center;
 }
 .line3 {
     top: 40%;
